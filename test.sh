@@ -1,0 +1,9 @@
+python mountain.py test_images/mountain.jpg mountain.jpg 35 300
+python mountain.py test_images/mountain2.jpg mountain2.jpg 120 70 
+python mountain.py test_images/mountain3.jpg mountain3.jpg 76 350
+python mountain.py test_images/mountain4.jpg mountain4.jpg 122 350
+python mountain.py test_images/mountain5.jpg mountain5.jpg 147 250
+python mountain.py test_images/mountain6.jpg mountain6.jpg 152 250
+python mountain.py test_images/mountain7.jpg mountain7.jpg 72 250
+python mountain.py test_images/mountain8.jpg mountain8.jpg 130 250
+python mountain.py test_images/mountain9.jpg mountain9.jpg 146 300
